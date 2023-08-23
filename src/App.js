@@ -6,6 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>jsx</h1>
+        <div className="container">
+          <p>tera name</p>
+        </div>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
